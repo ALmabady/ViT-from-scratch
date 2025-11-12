@@ -6,4 +6,4 @@ Run:
 ```bash
 python main.py
 
-![predictions](https://github.com/ALmabady/ViT-from-scratch/blob/main/predictions.png)
+![predictions](https://github.com/user-attachments/assets/3ac83702-5c85-4b0d-8fbb-6899acea7ffd)
