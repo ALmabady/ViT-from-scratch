@@ -6,3 +6,4 @@ Run:
 ```bash
 python main.py
 
+<img width="1017" height="390" alt="predictions" src="https://github.com/user-attachments/assets/3ac83702-5c85-4b0d-8fbb-6899acea7ffd" />
