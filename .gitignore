@@ -1,0 +1,21 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore model weights or large files
+models/
+*.pth
+*.pt
+
+# Ignore dataset folder
+data/
+
+# Ignore local environment files
+.env
+venv/
+.envrc
+
+# Ignore logs and outputs
+logs/
+*.log
+output/
